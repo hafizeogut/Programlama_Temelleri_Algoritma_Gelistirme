@@ -1,0 +1,25 @@
+E:\deneme\deneme\obj\x86\Debug\deneme.Form1.resources
+E:\deneme\deneme\obj\x86\Debug\deneme.Properties.Resources.resources
+E:\deneme\deneme\obj\x86\Debug\deneme.csproj.GenerateResource.Cache
+E:\deneme\deneme\bin\Debug\deneme.exe
+E:\deneme\deneme\bin\Debug\deneme.pdb
+E:\deneme\deneme\obj\x86\Debug\deneme.exe
+E:\deneme\deneme\obj\x86\Debug\deneme.pdb
+E:\deneme\deneme\obj\x86\Debug\deneme.csprojResolveAssemblyReference.cache
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\obj\x86\Debug\deneme.exe
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\obj\x86\Debug\deneme.pdb
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\bin\Debug\deneme.exe
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\bin\Debug\deneme.pdb
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\obj\x86\Debug\deneme.Form1.resources
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\obj\x86\Debug\deneme.Properties.Resources.resources
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMLAMA TEMELLERİ\deneme\deneme\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\YAŞ_DENEME\deneme\obj\x86\Debug\deneme.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\YAŞ_DENEME\deneme\obj\x86\Debug\deneme.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\YAŞ_DENEME\deneme\bin\Debug\deneme.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\YAŞ_DENEME\deneme\bin\Debug\deneme.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\YAŞ_DENEME\deneme\obj\x86\Debug\deneme.csprojResolveAssemblyReference.cache
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\YAŞ_DENEME\deneme\obj\x86\Debug\deneme.Form1.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\YAŞ_DENEME\deneme\obj\x86\Debug\deneme.Properties.Resources.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\YAŞ_DENEME\deneme\obj\x86\Debug\deneme.csproj.GenerateResource.Cache
