@@ -1,0 +1,9 @@
+E:\hafız\22222222\22222222\obj\x86\Debug\_22222222.Form1.resources
+E:\hafız\22222222\22222222\obj\x86\Debug\_22222222.Properties.Resources.resources
+E:\hafız\22222222\22222222\obj\x86\Debug\22222222.csproj.GenerateResource.Cache
+E:\hafız\22222222\22222222\bin\Debug\22222222.exe
+E:\hafız\22222222\22222222\bin\Debug\22222222.pdb
+E:\hafız\22222222\22222222\obj\x86\Debug\22222222.exe
+E:\hafız\22222222\22222222\obj\x86\Debug\22222222.pdb
+D:\hafize\hafız\ELEKTİRİK TÜKRTİMİ\22222222\obj\x86\Debug\22222222.exe
+D:\hafize\hafız\ELEKTİRİK TÜKRTİMİ\22222222\obj\x86\Debug\22222222.pdb
