@@ -1,0 +1,9 @@
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\obj\x86\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\obj\x86\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\obj\x86\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\obj\x86\Debug\WindowsFormsApplication24.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\obj\x86\Debug\WindowsFormsApplication24.pdb
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\obj\x86\Debug\WindowsFormsApplication24.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\trytytytyht\WindowsFormsApplication24\WindowsFormsApplication24\obj\x86\Debug\WindowsFormsApplication24.pdb

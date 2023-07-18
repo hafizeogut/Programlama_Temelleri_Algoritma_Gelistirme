@@ -1,0 +1,7 @@
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication26\WindowsFormsApplication26\obj\x86\Debug\WindowsFormsApplication26.Form1.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication26\WindowsFormsApplication26\obj\x86\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication26\WindowsFormsApplication26\obj\x86\Debug\WindowsFormsApplication26.csproj.GenerateResource.Cache
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication26\WindowsFormsApplication26\obj\x86\Debug\WindowsFormsApplication26.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication26\WindowsFormsApplication26\obj\x86\Debug\WindowsFormsApplication26.pdb
