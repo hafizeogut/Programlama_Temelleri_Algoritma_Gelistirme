@@ -1,0 +1,12 @@
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Properties.Resources.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Form1.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Form2.resources
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\trytytytyht\WindowsFormsApplication17\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.pdb
