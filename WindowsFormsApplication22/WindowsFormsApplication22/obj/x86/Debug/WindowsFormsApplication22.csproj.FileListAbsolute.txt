@@ -1,0 +1,7 @@
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication22\WindowsFormsApplication22\obj\x86\Debug\WindowsFormsApplication22.pdb

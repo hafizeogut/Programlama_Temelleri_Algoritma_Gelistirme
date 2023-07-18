@@ -1,0 +1,7 @@
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.Form1.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.pdb
