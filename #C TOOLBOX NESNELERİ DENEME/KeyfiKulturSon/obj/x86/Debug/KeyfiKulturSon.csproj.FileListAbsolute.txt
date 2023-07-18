@@ -1,0 +1,16 @@
+C:\Users\ilker\Desktop\otomasyon\KeyfiKulturSon\KeyfiKulturSon\bin\Debug\KeyfiKulturSon.exe
+C:\Users\ilker\Desktop\otomasyon\KeyfiKulturSon\KeyfiKulturSon\bin\Debug\KeyfiKulturSon.pdb
+C:\Users\ilker\Desktop\otomasyon\KeyfiKulturSon\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.Form1.resources
+C:\Users\ilker\Desktop\otomasyon\KeyfiKulturSon\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.Properties.Resources.resources
+C:\Users\ilker\Desktop\otomasyon\KeyfiKulturSon\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.csproj.GenerateResource.Cache
+C:\Users\ilker\Desktop\otomasyon\KeyfiKulturSon\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.exe
+C:\Users\ilker\Desktop\otomasyon\KeyfiKulturSon\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.pdb
+F:\KeyfiKulturSon\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.exe
+F:\KeyfiKulturSon\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\#C TOOLBOX NESNELERİ DENEME\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\#C TOOLBOX NESNELERİ DENEME\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\#C TOOLBOX NESNELERİ DENEME\KeyfiKulturSon\bin\Debug\KeyfiKulturSon.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\#C TOOLBOX NESNELERİ DENEME\KeyfiKulturSon\bin\Debug\KeyfiKulturSon.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\#C TOOLBOX NESNELERİ DENEME\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.Form1.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\#C TOOLBOX NESNELERİ DENEME\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.Properties.Resources.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\#C TOOLBOX NESNELERİ DENEME\KeyfiKulturSon\obj\x86\Debug\KeyfiKulturSon.csproj.GenerateResource.Cache

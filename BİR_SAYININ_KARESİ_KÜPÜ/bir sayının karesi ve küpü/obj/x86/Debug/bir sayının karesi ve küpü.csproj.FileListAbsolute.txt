@@ -1,0 +1,20 @@
+E:\bir sayının karesi ve küpü\bir sayının karesi ve küpü\bin\Debug\bir sayının karesi ve küpü.exe
+E:\bir sayının karesi ve küpü\bir sayının karesi ve küpü\bin\Debug\bir sayının karesi ve küpü.pdb
+E:\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir_sayının_karesi_ve_küpü.Form1.resources
+E:\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir_sayının_karesi_ve_küpü.Properties.Resources.resources
+E:\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.csproj.GenerateResource.Cache
+E:\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.exe
+E:\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.pdb
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.exe
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.pdb
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\bin\Debug\bir sayının karesi ve küpü.exe
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\bin\Debug\bir sayının karesi ve küpü.pdb
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir_sayının_karesi_ve_küpü.Form1.resources
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\bir_sayının_karesi_ve_küpü.Properties.Resources.resources
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMLAMA TEMELLERİ\bir sayının karesi ve küpü\bir sayının karesi ve küpü\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROGRAMLAMA TEMELLERİ\BİR_SAYININ_KARESİ_KÜPÜ\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.exe
+E:\PROGRAMLAMA TEMELLERİ\BİR_SAYININ_KARESİ_KÜPÜ\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\BİR_SAYININ_KARESİ_KÜPÜ\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\BİR_SAYININ_KARESİ_KÜPÜ\bir sayının karesi ve küpü\obj\x86\Debug\bir sayının karesi ve küpü.pdb

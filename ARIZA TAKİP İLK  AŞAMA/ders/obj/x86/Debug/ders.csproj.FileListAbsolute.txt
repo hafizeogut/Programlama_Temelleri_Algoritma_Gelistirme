@@ -1,0 +1,17 @@
+E:\ders\ders\obj\x86\Debug\ders.Form1.resources
+E:\ders\ders\obj\x86\Debug\ders.Properties.Resources.resources
+E:\ders\ders\obj\x86\Debug\ders.csproj.GenerateResource.Cache
+E:\ders\ders\bin\Debug\ders.exe
+E:\ders\ders\bin\Debug\ders.pdb
+E:\ders\ders\obj\x86\Debug\ders.csprojResolveAssemblyReference.cache
+E:\ders\ders\obj\x86\Debug\ders.exe
+E:\ders\ders\obj\x86\Debug\ders.pdb
+D:\hafize\ders\ders\obj\x86\Debug\ders.exe
+D:\hafize\ders\ders\obj\x86\Debug\ders.pdb
+D:\hafize\ders\ders\bin\Debug\ders.exe
+D:\hafize\ders\ders\bin\Debug\ders.pdb
+D:\hafize\ders\ders\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hafize\ders\ders\obj\x86\Debug\ders.Form1.resources
+D:\hafize\ders\ders\obj\x86\Debug\ders.Properties.Resources.resources
+D:\hafize\ders\ders\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hafize\ders\ders\obj\x86\Debug\GenerateResource.write.1.tlog

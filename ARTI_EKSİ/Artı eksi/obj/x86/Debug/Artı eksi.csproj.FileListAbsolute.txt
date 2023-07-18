@@ -1,0 +1,20 @@
+E:\Artı eksi\Artı eksi\bin\Debug\Artı eksi.exe
+E:\Artı eksi\Artı eksi\bin\Debug\Artı eksi.pdb
+E:\Artı eksi\Artı eksi\obj\x86\Debug\Artı_eksi.Form1.resources
+E:\Artı eksi\Artı eksi\obj\x86\Debug\Artı_eksi.Properties.Resources.resources
+E:\Artı eksi\Artı eksi\obj\x86\Debug\Artı eksi.csproj.GenerateResource.Cache
+E:\Artı eksi\Artı eksi\obj\x86\Debug\Artı eksi.exe
+E:\Artı eksi\Artı eksi\obj\x86\Debug\Artı eksi.pdb
+F:\Artı eksi\Artı eksi\obj\x86\Debug\Artı eksi.exe
+F:\Artı eksi\Artı eksi\obj\x86\Debug\Artı eksi.pdb
+E:\PROGRAMLAMA TEMELLERİ\Artı eksi\Artı eksi\obj\x86\Debug\Artı eksi.exe
+E:\PROGRAMLAMA TEMELLERİ\Artı eksi\Artı eksi\obj\x86\Debug\Artı eksi.pdb
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\ARTI_EKSİ\Artı eksi\obj\x86\Debug\Artı eksi.exe
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\ARTI_EKSİ\Artı eksi\obj\x86\Debug\Artı eksi.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\ARTI_EKSİ\Artı eksi\obj\x86\Debug\Artı eksi.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\ARTI_EKSİ\Artı eksi\obj\x86\Debug\Artı eksi.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\ARTI_EKSİ\Artı eksi\bin\Debug\Artı eksi.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\ARTI_EKSİ\Artı eksi\bin\Debug\Artı eksi.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\ARTI_EKSİ\Artı eksi\obj\x86\Debug\Artı_eksi.Form1.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\ARTI_EKSİ\Artı eksi\obj\x86\Debug\Artı_eksi.Properties.Resources.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\ARTI_EKSİ\Artı eksi\obj\x86\Debug\Artı eksi.csproj.GenerateResource.Cache
