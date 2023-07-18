@@ -1,0 +1,31 @@
+E:\pasta\pasta\bin\Debug\pasta.exe
+E:\pasta\pasta\bin\Debug\pasta.pdb
+E:\pasta\pasta\obj\x86\Debug\pasta.Form1.resources
+E:\pasta\pasta\obj\x86\Debug\pasta.Properties.Resources.resources
+E:\pasta\pasta\obj\x86\Debug\pasta.csproj.GenerateResource.Cache
+E:\pasta\pasta\obj\x86\Debug\pasta.exe
+E:\pasta\pasta\obj\x86\Debug\pasta.pdb
+E:\ \pasta\pasta\obj\x86\Debug\pasta.exe
+E:\ \pasta\pasta\obj\x86\Debug\pasta.pdb
+E:\ \pasta\pasta\bin\Debug\pasta.exe
+E:\ \pasta\pasta\bin\Debug\pasta.pdb
+E:\ \pasta\pasta\obj\x86\Debug\pasta.Form1.resources
+E:\ \pasta\pasta\obj\x86\Debug\pasta.Properties.Resources.resources
+E:\ \pasta\pasta\obj\x86\Debug\pasta.csproj.GenerateResource.Cache
+D:\hafize\pasta\pasta\obj\x86\Debug\pasta.exe
+D:\hafize\pasta\pasta\obj\x86\Debug\pasta.pdb
+D:\hafize\pasta\pasta\bin\Debug\pasta.exe
+D:\hafize\pasta\pasta\bin\Debug\pasta.pdb
+D:\hafize\pasta\pasta\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hafize\pasta\pasta\obj\x86\Debug\pasta.Form1.resources
+D:\hafize\pasta\pasta\obj\x86\Debug\pasta.Properties.Resources.resources
+D:\hafize\pasta\pasta\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hafize\pasta\pasta\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA OTOMSYONU İLK AŞŞAMA\pasta\obj\x86\Debug\pasta.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA OTOMSYONU İLK AŞŞAMA\pasta\obj\x86\Debug\pasta.pdb
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA OTOMSYONU İLK AŞŞAMA\pasta\bin\Debug\pasta.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA OTOMSYONU İLK AŞŞAMA\pasta\bin\Debug\pasta.pdb
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA OTOMSYONU İLK AŞŞAMA\pasta\obj\x86\Debug\pasta.Form1.resources
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA OTOMSYONU İLK AŞŞAMA\pasta\obj\x86\Debug\pasta.Properties.Resources.resources
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA OTOMSYONU İLK AŞŞAMA\pasta\obj\x86\Debug\pasta.csproj.GenerateResource.Cache
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA OTOMSYONU İLK AŞŞAMA\pasta\obj\x86\Debug\pasta.csprojResolveAssemblyReference.cache

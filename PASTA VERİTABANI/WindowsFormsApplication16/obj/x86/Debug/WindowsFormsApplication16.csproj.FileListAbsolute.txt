@@ -1,0 +1,25 @@
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Form1.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Properties.Resources.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.pdb
+C:\Users\wın7\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.exe
+C:\Users\wın7\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.pdb
+C:\Users\wın7\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Form1.resources
+C:\Users\wın7\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Properties.Resources.resources
+C:\Users\wın7\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache
+C:\Users\wın7\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+C:\Users\wın7\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+C:\Users\wın7\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA VERİTABANI\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA VERİTABANI\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.pdb
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA VERİTABANI\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA VERİTABANI\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA VERİTABANI\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA VERİTABANI\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Form1.resources
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA VERİTABANI\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Properties.Resources.resources
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\PASTA VERİTABANI\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache

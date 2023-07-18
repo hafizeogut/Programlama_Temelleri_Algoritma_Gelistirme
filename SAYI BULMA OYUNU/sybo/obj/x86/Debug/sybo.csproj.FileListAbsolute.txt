@@ -1,0 +1,34 @@
+E:\sybo\sybo\obj\x86\Debug\sybo.Form1.resources
+E:\sybo\sybo\obj\x86\Debug\sybo.Properties.Resources.resources
+E:\sybo\sybo\obj\x86\Debug\sybo.csproj.GenerateResource.Cache
+E:\sybo\sybo\bin\Debug\sybo.exe
+E:\sybo\sybo\bin\Debug\sybo.pdb
+E:\sybo\sybo\obj\x86\Debug\sybo.exe
+E:\sybo\sybo\obj\x86\Debug\sybo.pdb
+E:\sybo\sybo\obj\x86\Debug\sybo.csprojResolveAssemblyReference.cache
+G:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.exe
+G:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.pdb
+G:\iremmmmmgelişmiş oyun\sybo\bin\Debug\sybo.exe
+G:\iremmmmmgelişmiş oyun\sybo\bin\Debug\sybo.pdb
+G:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.csprojResolveAssemblyReference.cache
+G:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.Form1.resources
+G:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.Properties.Resources.resources
+G:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.csproj.GenerateResource.Cache
+F:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.exe
+F:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.pdb
+F:\iremmmmmgelişmiş oyun\sybo\bin\Debug\sybo.exe
+F:\iremmmmmgelişmiş oyun\sybo\bin\Debug\sybo.pdb
+F:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.Form1.resources
+F:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.Properties.Resources.resources
+F:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.exe
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.pdb
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\bin\Debug\sybo.exe
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\bin\Debug\sybo.pdb
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.Form1.resources
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\sybo.Properties.Resources.resources
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMLAMA TEMELLERİ\İREM PROJELER\iremmmmmgelişmiş oyun\sybo\obj\x86\Debug\GenerateResource.write.1.tlog

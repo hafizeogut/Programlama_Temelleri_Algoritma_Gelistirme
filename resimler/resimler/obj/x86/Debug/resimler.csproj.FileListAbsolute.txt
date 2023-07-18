@@ -1,0 +1,9 @@
+E:\resimler\resimler\bin\Debug\resimler.exe
+E:\resimler\resimler\bin\Debug\resimler.pdb
+E:\resimler\resimler\obj\x86\Debug\resimler.Form1.resources
+E:\resimler\resimler\obj\x86\Debug\resimler.Properties.Resources.resources
+E:\resimler\resimler\obj\x86\Debug\resimler.csproj.GenerateResource.Cache
+E:\resimler\resimler\obj\x86\Debug\resimler.exe
+E:\resimler\resimler\obj\x86\Debug\resimler.pdb
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\resimler\resimler\obj\x86\Debug\resimler.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\resimler\resimler\obj\x86\Debug\resimler.pdb
