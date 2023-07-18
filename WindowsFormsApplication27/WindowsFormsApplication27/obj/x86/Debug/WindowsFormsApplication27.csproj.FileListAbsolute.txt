@@ -1,0 +1,7 @@
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.Form1.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.Properties.Resources.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.pdb
