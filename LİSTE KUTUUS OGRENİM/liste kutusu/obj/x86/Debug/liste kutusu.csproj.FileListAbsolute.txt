@@ -1,0 +1,40 @@
+E:\liste kutusu\liste kutusu\bin\Debug\liste kutusu.exe
+E:\liste kutusu\liste kutusu\bin\Debug\liste kutusu.pdb
+E:\liste kutusu\liste kutusu\obj\x86\Debug\liste_kutusu.Form1.resources
+E:\liste kutusu\liste kutusu\obj\x86\Debug\liste_kutusu.Properties.Resources.resources
+E:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.csproj.GenerateResource.Cache
+E:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.exe
+E:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.pdb
+G:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.exe
+G:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.pdb
+G:\liste kutusu\liste kutusu\bin\Debug\liste kutusu.exe
+G:\liste kutusu\liste kutusu\bin\Debug\liste kutusu.pdb
+G:\liste kutusu\liste kutusu\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\liste kutusu\liste kutusu\obj\x86\Debug\liste_kutusu.Form1.resources
+G:\liste kutusu\liste kutusu\obj\x86\Debug\liste_kutusu.Properties.Resources.resources
+G:\liste kutusu\liste kutusu\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\liste kutusu\liste kutusu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.exe
+F:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.pdb
+H:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.exe
+H:\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.pdb
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.exe
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\liste kutusu\liste kutusu\obj\x86\Debug\liste kutusu.pdb
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste kutusu.exe
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste kutusu.pdb
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\bin\Debug\liste kutusu.exe
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\bin\Debug\liste kutusu.pdb
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste_kutusu.Form1.resources
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste_kutusu.Properties.Resources.resources
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste kutusu.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste kutusu.pdb
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\bin\Debug\liste kutusu.exe
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\bin\Debug\liste kutusu.pdb
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste_kutusu.Form1.resources
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste_kutusu.Properties.Resources.resources
+D:\Yeni klasör\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste kutusu.csproj.GenerateResource.Cache
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste kutusu.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\LİSTE KUTUUS OGRENİM\liste kutusu\obj\x86\Debug\liste kutusu.pdb

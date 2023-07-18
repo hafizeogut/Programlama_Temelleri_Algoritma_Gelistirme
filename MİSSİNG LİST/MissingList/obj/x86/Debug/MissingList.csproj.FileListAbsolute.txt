@@ -1,0 +1,18 @@
+F:\MissingList\MissingList\bin\Debug\MissingList.exe
+F:\MissingList\MissingList\bin\Debug\MissingList.pdb
+F:\MissingList\MissingList\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MissingList\MissingList\obj\x86\Debug\MissingList.Form1.resources
+F:\MissingList\MissingList\obj\x86\Debug\MissingList.Properties.Resources.resources
+F:\MissingList\MissingList\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\MissingList\MissingList\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\MissingList\MissingList\obj\x86\Debug\MissingList.exe
+F:\MissingList\MissingList\obj\x86\Debug\MissingList.pdb
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\obj\x86\Debug\MissingList.exe
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\obj\x86\Debug\MissingList.pdb
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\bin\Debug\MissingList.exe
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\bin\Debug\MissingList.pdb
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\obj\x86\Debug\MissingList.Form1.resources
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\obj\x86\Debug\MissingList.Properties.Resources.resources
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\MissingList\MissingList\obj\x86\Debug\GenerateResource.write.1.tlog

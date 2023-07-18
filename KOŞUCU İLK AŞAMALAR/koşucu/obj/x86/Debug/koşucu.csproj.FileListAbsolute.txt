@@ -1,0 +1,18 @@
+F:\koşucu\koşucu\bin\Debug\koşucu.exe
+F:\koşucu\koşucu\bin\Debug\koşucu.pdb
+F:\koşucu\koşucu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\koşucu\koşucu\obj\x86\Debug\koşucu.Form1.resources
+F:\koşucu\koşucu\obj\x86\Debug\koşucu.Properties.Resources.resources
+F:\koşucu\koşucu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\koşucu\koşucu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\koşucu\koşucu\obj\x86\Debug\koşucu.exe
+F:\koşucu\koşucu\obj\x86\Debug\koşucu.pdb
+D:\hafize\kopya\Çalışmalar\koşucu\koşucu\obj\x86\Debug\koşucu.exe
+D:\hafize\kopya\Çalışmalar\koşucu\koşucu\obj\x86\Debug\koşucu.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\KOŞUCU İLK AŞAMALAR\koşucu\obj\x86\Debug\koşucu.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\KOŞUCU İLK AŞAMALAR\koşucu\obj\x86\Debug\koşucu.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\KOŞUCU İLK AŞAMALAR\koşucu\bin\Debug\koşucu.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\KOŞUCU İLK AŞAMALAR\koşucu\bin\Debug\koşucu.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\KOŞUCU İLK AŞAMALAR\koşucu\obj\x86\Debug\koşucu.Form1.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\KOŞUCU İLK AŞAMALAR\koşucu\obj\x86\Debug\koşucu.Properties.Resources.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\KOŞUCU İLK AŞAMALAR\koşucu\obj\x86\Debug\koşucu.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+E:\not hesaplama\not hesaplama\obj\x86\Debug\not_hesaplama.Form1.resources
+E:\not hesaplama\not hesaplama\obj\x86\Debug\not_hesaplama.Properties.Resources.resources
+E:\not hesaplama\not hesaplama\obj\x86\Debug\not hesaplama.csproj.GenerateResource.Cache
+E:\not hesaplama\not hesaplama\bin\Debug\not hesaplama.exe
+E:\not hesaplama\not hesaplama\bin\Debug\not hesaplama.pdb
+E:\not hesaplama\not hesaplama\obj\x86\Debug\not hesaplama.exe
+E:\not hesaplama\not hesaplama\obj\x86\Debug\not hesaplama.pdb
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\NOT HESALAMA\not hesaplama\obj\x86\Debug\not hesaplama.exe
+D:\hafize\kopya\PROGRAMLAMA TEMELLERİ\NOT HESALAMA\not hesaplama\obj\x86\Debug\not hesaplama.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\NOT HESALAMA\not hesaplama\obj\x86\Debug\not hesaplama.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\NOT HESALAMA\not hesaplama\obj\x86\Debug\not hesaplama.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\NOT HESALAMA\not hesaplama\bin\Debug\not hesaplama.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\NOT HESALAMA\not hesaplama\bin\Debug\not hesaplama.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\NOT HESALAMA\not hesaplama\obj\x86\Debug\not_hesaplama.Form1.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\NOT HESALAMA\not hesaplama\obj\x86\Debug\not_hesaplama.Properties.Resources.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\NOT HESALAMA\not hesaplama\obj\x86\Debug\not hesaplama.csproj.GenerateResource.Cache
