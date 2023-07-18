@@ -1,0 +1,16 @@
+E:\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki_sayıyı_topla_çıkar.Form1.resources
+E:\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki_sayıyı_topla_çıkar.Properties.Resources.resources
+E:\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki sayıyı topla çıkar.csproj.GenerateResource.Cache
+E:\iki sayıyı topla çıkar\iki sayıyı topla çıkar\bin\Debug\iki sayıyı topla çıkar.exe
+E:\iki sayıyı topla çıkar\iki sayıyı topla çıkar\bin\Debug\iki sayıyı topla çıkar.pdb
+E:\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki sayıyı topla çıkar.exe
+E:\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki sayıyı topla çıkar.pdb
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki sayıyı topla çıkar.exe
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki sayıyı topla çıkar.pdb
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\bin\Debug\iki sayıyı topla çıkar.exe
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\bin\Debug\iki sayıyı topla çıkar.pdb
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki_sayıyı_topla_çıkar.Form1.resources
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\iki_sayıyı_topla_çıkar.Properties.Resources.resources
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMLAMA TEMELLERİ\iki sayıyı topla çıkar\iki sayıyı topla çıkar\obj\x86\Debug\GenerateResource.write.1.tlog

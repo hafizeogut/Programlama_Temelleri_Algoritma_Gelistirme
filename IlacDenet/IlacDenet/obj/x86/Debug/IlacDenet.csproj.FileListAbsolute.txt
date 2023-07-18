@@ -1,0 +1,7 @@
+C:\Users\Hakkı Ogut\Desktop\IlacDenet\IlacDenet\bin\Debug\IlacDenet.exe
+C:\Users\Hakkı Ogut\Desktop\IlacDenet\IlacDenet\bin\Debug\IlacDenet.pdb
+C:\Users\Hakkı Ogut\Desktop\IlacDenet\IlacDenet\obj\x86\Debug\IlacDenet.Form1.resources
+C:\Users\Hakkı Ogut\Desktop\IlacDenet\IlacDenet\obj\x86\Debug\IlacDenet.Properties.Resources.resources
+C:\Users\Hakkı Ogut\Desktop\IlacDenet\IlacDenet\obj\x86\Debug\IlacDenet.csproj.GenerateResource.Cache
+C:\Users\Hakkı Ogut\Desktop\IlacDenet\IlacDenet\obj\x86\Debug\IlacDenet.exe
+C:\Users\Hakkı Ogut\Desktop\IlacDenet\IlacDenet\obj\x86\Debug\IlacDenet.pdb

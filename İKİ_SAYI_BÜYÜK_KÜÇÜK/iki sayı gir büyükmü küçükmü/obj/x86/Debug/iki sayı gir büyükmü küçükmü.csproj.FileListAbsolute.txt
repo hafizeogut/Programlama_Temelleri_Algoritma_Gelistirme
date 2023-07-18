@@ -1,0 +1,18 @@
+E:\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\bin\Debug\iki sayı gir büyükmü küçükmü.exe
+E:\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\bin\Debug\iki sayı gir büyükmü küçükmü.pdb
+E:\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki_sayı_gir_büyükmü_küçükmü.Form1.resources
+E:\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki_sayı_gir_büyükmü_küçükmü.Properties.Resources.resources
+E:\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki sayı gir büyükmü küçükmü.csproj.GenerateResource.Cache
+E:\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki sayı gir büyükmü küçükmü.exe
+E:\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki sayı gir büyükmü küçükmü.pdb
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki sayı gir büyükmü küçükmü.exe
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki sayı gir büyükmü küçükmü.pdb
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\bin\Debug\iki sayı gir büyükmü küçükmü.exe
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\bin\Debug\iki sayı gir büyükmü küçükmü.pdb
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki_sayı_gir_büyükmü_küçükmü.Form1.resources
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki_sayı_gir_büyükmü_küçükmü.Properties.Resources.resources
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMLAMA TEMELLERİ\iki sayı gir büyükmü küçükmü\iki sayı gir büyükmü küçükmü\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\İKİ_SAYI_BÜYÜK_KÜÇÜK\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki sayı gir büyükmü küçükmü.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\İKİ_SAYI_BÜYÜK_KÜÇÜK\iki sayı gir büyükmü küçükmü\obj\x86\Debug\iki sayı gir büyükmü küçükmü.pdb
