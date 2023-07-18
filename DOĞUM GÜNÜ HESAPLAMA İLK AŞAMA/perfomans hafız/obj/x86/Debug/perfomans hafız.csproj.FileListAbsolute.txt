@@ -1,0 +1,27 @@
+E:\perfomans hafız\perfomans hafız\bin\Debug\perfomans hafız.exe
+E:\perfomans hafız\perfomans hafız\bin\Debug\perfomans hafız.pdb
+E:\perfomans hafız\perfomans hafız\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans_hafız.Form1.resources
+E:\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans_hafız.Properties.Resources.resources
+E:\perfomans hafız\perfomans hafız\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\perfomans hafız\perfomans hafız\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans hafız.exe
+E:\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans hafız.pdb
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans hafız.exe
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans hafız.pdb
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\bin\Debug\perfomans hafız.exe
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\bin\Debug\perfomans hafız.pdb
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans_hafız.Form1.resources
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans_hafız.Properties.Resources.resources
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MikroNET\Desktop\perfomans hafız\perfomans hafız\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\cemile odev\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans hafız.exe
+D:\cemile odev\perfomans hafız\perfomans hafız\obj\x86\Debug\perfomans hafız.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\DOĞUM GÜNÜ HESAPLAMA İLK AŞAMA\perfomans hafız\obj\x86\Debug\perfomans hafız.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\DOĞUM GÜNÜ HESAPLAMA İLK AŞAMA\perfomans hafız\obj\x86\Debug\perfomans hafız.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\DOĞUM GÜNÜ HESAPLAMA İLK AŞAMA\perfomans hafız\bin\Debug\perfomans hafız.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\DOĞUM GÜNÜ HESAPLAMA İLK AŞAMA\perfomans hafız\bin\Debug\perfomans hafız.pdb
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\DOĞUM GÜNÜ HESAPLAMA İLK AŞAMA\perfomans hafız\obj\x86\Debug\perfomans_hafız.Form1.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\DOĞUM GÜNÜ HESAPLAMA İLK AŞAMA\perfomans hafız\obj\x86\Debug\perfomans_hafız.Properties.Resources.resources
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\DOĞUM GÜNÜ HESAPLAMA İLK AŞAMA\perfomans hafız\obj\x86\Debug\perfomans hafız.csproj.GenerateResource.Cache

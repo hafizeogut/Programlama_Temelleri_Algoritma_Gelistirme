@@ -1,0 +1,20 @@
+E:\büyük_küçük\büyük_küçük\bin\Debug\büyük_küçük.exe
+E:\büyük_küçük\büyük_küçük\bin\Debug\büyük_küçük.pdb
+E:\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.Form1.resources
+E:\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.Properties.Resources.resources
+E:\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.csproj.GenerateResource.Cache
+E:\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.exe
+E:\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.pdb
+H:\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.exe
+H:\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.pdb
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.exe
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.pdb
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\bin\Debug\büyük_küçük.exe
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\bin\Debug\büyük_küçük.pdb
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.Form1.resources
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\obj\x86\Debug\büyük_küçük.Properties.Resources.resources
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMLAMA TEMELLERİ\büyük_küçük\büyük_küçük\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\BÜYÜK_KÜÇÜK\büyük_küçük\obj\x86\Debug\büyük_küçük.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\BÜYÜK_KÜÇÜK\büyük_küçük\obj\x86\Debug\büyük_küçük.pdb
