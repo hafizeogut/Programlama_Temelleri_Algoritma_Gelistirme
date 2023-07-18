@@ -1,0 +1,9 @@
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.exe
+C:\Users\BL1_Ogrtm\Desktop\trytytytyht\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.pdb
