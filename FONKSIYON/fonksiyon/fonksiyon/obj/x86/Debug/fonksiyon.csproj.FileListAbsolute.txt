@@ -1,0 +1,30 @@
+E:\fonksiyon\fonksiyon\bin\Debug\fonksiyon.exe
+E:\fonksiyon\fonksiyon\bin\Debug\fonksiyon.pdb
+E:\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.Form1.resources
+E:\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.Properties.Resources.resources
+E:\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.csproj.GenerateResource.Cache
+E:\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.exe
+E:\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.pdb
+E:\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.AnaEkran.resources
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.exe
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.pdb
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\bin\Debug\fonksiyon.exe
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\bin\Debug\fonksiyon.pdb
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.AnaEkran.resources
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.Form1.resources
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.Properties.Resources.resources
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hakkı Ogut\Desktop\fonksiyon\fonksiyon\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.exe
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.pdb
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\bin\Debug\fonksiyon.exe
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\bin\Debug\fonksiyon.pdb
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.AnaEkran.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.Form1.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.Properties.Resources.resources
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hakkı Ogut\Desktop\Yeni klasör\fonksiyon\fonksiyon\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\FONKSIYON\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.exe
+D:\HAFIZE\PROGRAMLA  TEMLLERİ\FONKSIYON\fonksiyon\fonksiyon\obj\x86\Debug\fonksiyon.pdb
